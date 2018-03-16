@@ -1,0 +1,4 @@
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Release\Wordpress.Form1.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Release\Wordpress.Form2.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Release\Wordpress.Properties.Resources.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Release\Wordpress.csproj.GenerateResource.Cache

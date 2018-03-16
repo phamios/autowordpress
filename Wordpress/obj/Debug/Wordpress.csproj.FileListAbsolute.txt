@@ -1,0 +1,121 @@
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\ResolveAssemblyReference.cache
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+D:\Windows Applications\Post to Wordpress\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Blogger.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Client.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Extensions.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Newtonsoft.Json.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ExecRequest.exe
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Photos.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Spreadsheets.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.manifest
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.application
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe.manifest
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.application
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.dll
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.xml
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.manifest
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.application
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.dll
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Newtonsoft.Json.dll
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.xml
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe.manifest
+E:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.application
+D:\C# Application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.config
+E:\Google Driver\Code\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.config
+E:\Google Driver\Code\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+E:\Google Driver\Code\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.config
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.manifest
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.application
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ExecRequest.exe
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Blogger.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Client.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Extensions.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Photos.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Google.GData.Spreadsheets.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Newtonsoft.Json.dll
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.xml
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe.manifest
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.application
+E:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.config
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.manifest
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.application
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.dll
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Newtonsoft.Json.dll
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.xml
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe.manifest
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.application
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+D:\Google Driver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.config
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe.manifest
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.application
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.exe
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Wordpress.pdb
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.dll
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\Newtonsoft.Json.dll
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\bin\Debug\ModelEditControl.xml
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe.manifest
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.application
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+D:\GoogleDriver\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+Z:\Google Drive\C# application\Wordpressnet\Wordpressnet\WP C#\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.csprojResolveAssemblyReference.cache
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.Form1.resources
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.Form2.resources
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.Properties.Resources.resources
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.csproj.GenerateResource.Cache
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.exe
+C:\Users\dvmin\Desktop\Wordpress-20180117T113838Z-001\Wordpress\Wordpress\obj\Debug\Wordpress.pdb
